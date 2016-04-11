@@ -1,2 +1,4 @@
 # hello-world
-I'm learning
+I'm learning.
+
+Librarian. Person who likes things. 
